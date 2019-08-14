@@ -1,6 +1,6 @@
 package br.ufrn.imd.almoxorifado.dominio;
 
-import br.ufrn.imd.almoxifado.controlequalidade.SolicitacaoAnalise;
+import br.ufrn.imd.almoxorifado.controlequalidade.SolicitacaoAnalise;
 import br.ufrn.imd.almoxorifado.coq.MetodoEspecificoAnalise;
 import br.ufrn.imd.almoxorifado.producao.*;
 import br.ufrn.imd.almoxorifado.rh.*;

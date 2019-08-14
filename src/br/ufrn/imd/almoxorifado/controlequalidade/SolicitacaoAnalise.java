@@ -1,4 +1,4 @@
-package br.ufrn.imd.almoxifado.controlequalidade;
+package br.ufrn.imd.almoxorifado.controlequalidade;
 
 /**
  * Classe que representa uma solicitacao em analise
